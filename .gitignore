@@ -9,5 +9,8 @@ node_modules/
 # C extensions
 *.so
 
+# executable files
+*.exe
+
 # VSCode
 .vscode
